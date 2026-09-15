@@ -16,7 +16,7 @@ answer, because most of the questions people reach for a model to answer are que
 
 ## What the pipeline has actually done
 
-Every figure below is counted from the live ledger and the repository, not estimated. Machine came online 2025-11-03; the pipeline build began, and the pipeline filed its first intake in late winter 2026.
+Every figure below is counted from the live ledger and the repository, not estimated. Our first DGX Spark, named "Sparky", came online 2025-11-03; the pipeline build began shortly thereafter, and the pipeline filed its first intake in late winter 2026.
 
 | | |
 |---:|:---|
@@ -36,7 +36,7 @@ That last row is the one we care about most. A pipeline that never escalates isn
 
 ## What we build
 
-**Project Lumbergh** — a four-tier pipeline where AI agents plan, decompose, build and adversarially review software, with a human at the top. Named after *Office Space*, which tells you how seriously we take org charts. Parts of the pipeline include Bill (Lumbergh), Peter, Milton, and even Stan (Jennifer Aniston's flair-counting boss) in a fitting QA role.
+**Project Lumbergh** — a four-tier pipeline where AI agents plan, decompose, build and adversarially review software, with a human at the top. Named after *Office Space*, which tells you how seriously we take org charts. Parts of the pipeline include Bill (Lumbergh himself), Peter, Milton, and even Stan (Jennifer Aniston's flair-counting boss) in a fitting QA role.
 
 **The Bobs** — a panel of independent models, frontier and local, that reviews a spec before anything gets built. The disagreements are worth more than the findings.
 
@@ -44,9 +44,9 @@ That last row is the one we care about most. A pipeline that never escalates isn
 
 **Frame TV Image Uploader** — gets your own photographs onto a Samsung Frame TV's Art Mode without fighting its undocumented opinions about file formats.
 
-## On the empty repo list (Summer 2026)
+## On the sparse repo list (Summer 2026)
 
-Most of this runs privately, and not everything will be shared publicly. But when a project is genuinely useful on its own it gets released here — with a licence, a readable history, and no leftovers from the room it was built in. Our first repo is up; I built an ONNX Runtime for ARM64 with TensorRT for Nvidia's Blackwell GB10 chips for use with utilities like Immich.
+Most of this runs privately, and not everything will be shared publicly. But when a project is genuinely useful on its own it gets released here — with a licence, a readable history, and no leftovers from the room it was built in. Our first repo is up; we built a JIT ONNX Runtime for ARM64 with TensorRT for Nvidia's Blackwell GB10 chips for use with utilities like Immich.
 
 **We expect more repositories and tools to be public by the end of September 2026.**
 
