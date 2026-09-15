@@ -9,20 +9,14 @@
 
 ---
 
-Cairo Labs is the engineering side of The Cairo Companies — a two-person shop in
-the Tampa Bay area building AI systems that do real work, on hardware we own.
+Cairo Labs is the engineering side of The Cairo Companies — a two-person shop in the Tampa Bay area building AI systems that do real work, on hardware we own.
 
-Everything runs on an NVIDIA DGX Spark sitting three feet from the coffee. Local
-models handle planning, decomposition and housekeeping; frontier models build and
-adversarially review; plain deterministic code handles anything a function can
-answer, because most of the questions people reach for a model to answer are
-questions a function should answer.
+Everything runs on NVIDIA hardware sitting three feet from the coffee. Local models handle planning, decomposition and housekeeping; frontier models build and adversarially review; plain deterministic code handles anything a function can
+answer, because most of the questions people reach for a model to answer are questions a function should answer.
 
 ## What the pipeline has actually done
 
-Every figure below is counted from the live ledger and the repository, not
-estimated. Machine came online 2025-11-03; the pipeline filed its first intake
-2026-03-18.
+Every figure below is counted from the live ledger and the repository, not estimated. Machine came online 2025-11-03; the pipeline build began, and the pipeline filed its first intake in late winter 2026.
 
 | | |
 |---:|:---|
@@ -38,37 +32,26 @@ estimated. Machine came online 2025-11-03; the pipeline filed its first intake
 | **834** | bugs filed |
 | **600** | escalations that stopped and asked a human |
 
-That last row is the one we care about most. A pipeline that never escalates
-isn't autonomous, it's unsupervised.
+That last row is the one we care about most. A pipeline that never escalates isn't autonomous, it's unsupervised.
 
 ## What we build
 
-**Project Lumbergh** — a four-tier pipeline where AI agents plan, decompose,
-build and adversarially review software, with a human at the top. Named after
-*Office Space*, which tells you how seriously we take org charts.
+**Project Lumbergh** — a four-tier pipeline where AI agents plan, decompose, build and adversarially review software, with a human at the top. Named after *Office Space*, which tells you how seriously we take org charts. Parts of the pipeline include Bill (Lumbergh), Peter, Milton, and even Stan (Jennifer Aniston's flair-counting boss) in a fitting QA role.
 
-**The Bobs** — a panel of independent models, frontier and local, that reviews a
-spec before anything gets built. The disagreements are worth more than the
-findings.
+**The Bobs** — a panel of independent models, frontier and local, that reviews a spec before anything gets built. The disagreements are worth more than the findings.
 
-**Photo Tagger** — a local vision model that makes a 200,000-image Lightroom
-catalog searchable without uploading a single frame.
+**Photo Tagger** — a local vision model that makes a 200,000-image Lightroom catalog searchable without uploading a single frame.
 
-**Frame TV Image Uploader** — gets your own photographs onto a Samsung Frame TV's
-Art Mode without fighting its undocumented opinions about file formats.
+**Frame TV Image Uploader** — gets your own photographs onto a Samsung Frame TV's Art Mode without fighting its undocumented opinions about file formats.
 
-## On the empty repo list
+## On the empty repo list (Summer 2026)
 
-Most of this runs privately, and we would rather publish nothing than publish a
-repo we have not properly reviewed first. When a project is genuinely useful on
-its own it gets released here — with a licence, a readable history, and no
+Most of this runs privately, and we would rather publish nothing than publish a repo we have not properly reviewed first. When a project is genuinely useful on its own it gets released here — with a licence, a readable history, and no
 leftovers from the room it was built in.
 
-**We expect the first repositories to be public by the end of September 2026.**
+**We expect the first repositories and tools to be public by the end of September 2026.**
 
-Until then the work is written up in public instead.
-**[cairoglyphics.ai](https://cairoglyphics.ai)** carries the build logs, the
-architecture decisions, and the things that went wrong.
+Until then the work is written up in public instead. **[cairoglyphics.ai](https://cairoglyphics.ai)** carries the build logs, the architecture decisions, and the things that went wrong.
 
 ## The Cairo Companies
 
