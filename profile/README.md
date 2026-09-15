@@ -46,10 +46,9 @@ That last row is the one we care about most. A pipeline that never escalates isn
 
 ## On the empty repo list (Summer 2026)
 
-Most of this runs privately, and we would rather publish nothing than publish a repo we have not properly reviewed first. When a project is genuinely useful on its own it gets released here — with a licence, a readable history, and no
-leftovers from the room it was built in.
+Most of this runs privately, and not everything will be shared publicly. But when a project is genuinely useful on its own it gets released here — with a licence, a readable history, and no leftovers from the room it was built in. Our first repo is up; I built an ONNX Runtime for ARM64 with TensorRT for Nvidia's Blackwell GB10 chips for use with utilities like Immich.
 
-**We expect the first repositories and tools to be public by the end of September 2026.**
+**We expect more repositories and tools to be public by the end of September 2026.**
 
 Until then the work is written up in public instead. **[cairoglyphics.ai](https://cairoglyphics.ai)** carries the build logs, the architecture decisions, and the things that went wrong.
 
