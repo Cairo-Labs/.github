@@ -16,7 +16,7 @@ answer, because most of the questions people reach for a model to answer are que
 
 ## What the pipeline has actually done
 
-Every figure below is counted from the live ledger and the repository, not estimated. Our first DGX Spark, named "Sparky", came online 2025-11-03; the pipeline build began shortly thereafter, and the pipeline filed its first intake in late winter 2026.
+Every figure below is counted from the live ledger and the repository, not estimated. Our first DGX Spark, named "Sparky", came online 2025-11-03; the pipeline build began shortly thereafter, and the pipeline filed its first intake in March 2026.
 
 | | |
 |---:|:---|
