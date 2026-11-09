@@ -61,4 +61,4 @@ Until then the work is written up in public instead. **[cairoglyphics.ai](https:
 | **Cairo Networks** | Campus AI networking — [caironetworks.com](https://caironetworks.com) |
 | **Cairoglyphics** | Everything we write — [cairoglyphics.ai](https://cairoglyphics.ai) |
 
-<p align="center"><sub>Redington Shores, Florida &middot; <a href="mailto:mike@cairolabs.ai">mike@cairolabs.ai</a></sub></p>
+<p align="center"><sub>Gulf Coast, Florida &middot; <a href="mailto:mike@cairolabs.ai">mike@cairolabs.ai</a></sub></p>
